@@ -31,7 +31,7 @@ Verzichtet wurde bei meinem Gerät auf Erweiterungen, wie Tonbandanschluss und me
 ### Bilderverzeichnis:
 
 <p>
-  <table>
+  <table border="0">
 <!-- ------------------------------ -->
     <tr>
       <td>
