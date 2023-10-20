@@ -26,7 +26,7 @@ Im Gerät befindet sich eine 3. Steckkarte, auf der ein 512kByte ROM verbaut ist.
 Verzichtet wurde bei meinem Gerät auf Erweiterungen, wie Tonbandanschluss und mehr.
 </p>
 
-<img alt="Startbild" src="./Bilder/verkleinert/Startbild_k50.png" width="45%">
+<img alt="Startbild" src="./Bilder/verkleinert/Startbild.png" width="45%">
 
 ### Bilderverzeichnis:
 
